@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eShopOnWeb-chrisloof
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: b5723b58-9969-4a57-aecb-845bd51ae7c0
   WEBAPP-NAME: eshoponweb-webapp-chrisloof
 
 
